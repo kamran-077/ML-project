@@ -70,20 +70,13 @@ The model uses `customer_churn_prediction_dataset.csv`, a telecom-style customer
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the app
+### 2. Run the app
 
 ```bash
 streamlit run mlprject2.py
@@ -122,8 +115,8 @@ This project is for learning and educational purposes only.
 
 ## 👨‍💻 Author
 
-Made by **<Your Name>**
-GitHub: [@<your-username>](https://github.com/<your-username>)
+Made by **<Kamran Shahid>**
+GitHub: [@kamran-077]
 
 ---
 
